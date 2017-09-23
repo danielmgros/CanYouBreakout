@@ -1,2 +1,2 @@
-# CanYouBreakout.github.io
+# CanYouBreakout
 Breakout Parody that Never Ends
